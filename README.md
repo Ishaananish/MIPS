@@ -32,8 +32,6 @@ The MIPS 32 Processor is an implementation of the MIPS (Microprocessor without I
 Contributing
 Contributions to this project are welcome! If you find any issues or want to enhance the processor's functionality, feel free to open issues and pull requests.
 
-Please review the Contributing Guidelines before making contributions.
-
 License
 This project is licensed under the MIT License.
 
