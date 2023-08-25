@@ -18,14 +18,10 @@ The MIPS 32 Processor is an implementation of the MIPS (Microprocessor without I
 
 ### Prerequisites
 
-List any prerequisites that users need to have in order to run or simulate the MIPS processor. For example:
-
 - A Verilog simulator (e.g., ModelSim, Xilinx Vivado)
 - Basic understanding of digital logic and computer architecture
 
 ### Installation and Usage
-
-Provide step-by-step instructions on how to set up and run the MIPS processor simulation. For example:
 
 1. Clone this repository:
 
